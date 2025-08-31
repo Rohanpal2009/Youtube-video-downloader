@@ -9,3 +9,5 @@ try:
 except Exception as e:
 
     print("Error:",e)
+
+# it can give you error sometime if your internet blockchain reject the request
